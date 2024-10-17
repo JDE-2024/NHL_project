@@ -7,6 +7,7 @@ This is a final group project as part of the Junior Data Engineer Program by Gen
   
 **Project Documents:**
 >[Project Documentation](https://github.com/JDE-2024/NHL_project/blob/main/docs/JDE2024%20-%20Nexus%20Nucleus%20Final%20Project%20Report.pdf)
+
 >[Presentation](https://github.com/JDE-2024/NHL_project/blob/main/docs/JDE2024-NHL-Finalproject.pdf)
  
  
@@ -37,7 +38,7 @@ This is a final group project as part of the Junior Data Engineer Program by Gen
 
   
 
-[ETL Pipeline](https://github.com/JDE-2024/NHL_project/blob/main/images/git-img-archi.png)
+![ETL Pipeline](https://github.com/JDE-2024/NHL_project/blob/main/images/git-img-archi.png)
 
   
 
@@ -83,7 +84,7 @@ This is a final group project as part of the Junior Data Engineer Program by Gen
 
   
 
-[Database ERD](https://github.com/JDE-2024/NHL_project/blob/main/images/git-img-erd.png)
+![Database ERD](https://github.com/JDE-2024/NHL_project/blob/main/images/git-img-erd.png)
 
   
 
